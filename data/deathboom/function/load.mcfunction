@@ -1,0 +1,3 @@
+say You've just accidentally swallowed some TNT...
+scoreboard objectives add deaths deathCount
+scoreboard players set @a deaths 0
