@@ -1,0 +1,1 @@
+-When using the `/reload` command you will see a custom message in chat making sure everything is working as intended.
